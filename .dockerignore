@@ -1,0 +1,29 @@
+# Maven / Java build outputs
+target/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Node (varsa)
+node_modules/
+
+# Docker metadata (opsiyonel)
+docker-compose.override.yml
+
+# Maven wrapper cache (genelde gerekmez ama istersen tut)
+# .mvn/wrapper/maven-wrapper.jar
+
+Dockerfile
+docker-compose.yml
+README.md
